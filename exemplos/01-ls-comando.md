@@ -11,3 +11,7 @@ O comando `ls` é usado para listar o conteúdo do diretório atual.
 ### Sintaxe
 ```bash
 ls
+
+
+saída esperada
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
